@@ -1,0 +1,3 @@
+rootProject.name = "MovieFinder"
+include ':app'
+include ':core'
